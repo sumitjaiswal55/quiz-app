@@ -3,7 +3,7 @@
 A fun and interactive quiz application built using React. This app allows users to test their knowledge with multiple-choice questions and provides instant feedback.
 
 ## 🚀 Live Demo  
-🔗 [Quiz App](https://quiz-mrr5r4tun-sumitjaiswal55s-projects.vercel.app/)  
+🔗 [Quiz App](https://quiz-app-psi-lilac.vercel.app/)  
 
 ## 🛠 Features  
 ✔️ Multiple-choice quiz format  
